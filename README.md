@@ -3,8 +3,7 @@
 <div>
   <a href="https://github.com/diniztaina">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diniztaina&showicons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diniztaina&layout=compact&langs_count=16&theme=radical"/>
-    </div>
+   
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Tai-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
